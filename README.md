@@ -30,3 +30,15 @@ payload :
   "ip":"ip"
 }
 ```
+response ;
+```
+{
+  'status':200,
+  'message': 'some message',
+  'data':{
+    'id':'clientId',
+    'ip':'IP submitted by user'
+    'detectedIP: 'user public IP detected by server'
+  }
+}
+```
