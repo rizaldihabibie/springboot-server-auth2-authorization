@@ -26,7 +26,7 @@ Authorization: Bearer some_token
 payload :
 ```
 {
-  "id":"some_id",
+  "id":"client_id",
   "ip":"ip"
 }
 ```
