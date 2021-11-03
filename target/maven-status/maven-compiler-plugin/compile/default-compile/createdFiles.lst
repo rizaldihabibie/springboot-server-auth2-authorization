@@ -1,6 +1,0 @@
-com/habibie/demo/DemoApplication.class
-com/habibie/model/ReportIp.class
-com/habibie/model/CustomResponse.class
-com/habibie/demo/controller/ReportController.class
-com/habibie/demo/security/WebSecurity.class
-com/habibie/demo/security/AudienceValidator.class
